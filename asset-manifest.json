@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactwebapi-food/static/css/main.18d5f830.chunk.css",
+    "main.js": "/reactwebapi-food/static/js/main.6d0bf0a0.chunk.js",
+    "main.js.map": "/reactwebapi-food/static/js/main.6d0bf0a0.chunk.js.map",
+    "runtime-main.js": "/reactwebapi-food/static/js/runtime-main.c2b577ac.js",
+    "runtime-main.js.map": "/reactwebapi-food/static/js/runtime-main.c2b577ac.js.map",
+    "static/js/2.430a7d93.chunk.js": "/reactwebapi-food/static/js/2.430a7d93.chunk.js",
+    "static/js/2.430a7d93.chunk.js.map": "/reactwebapi-food/static/js/2.430a7d93.chunk.js.map",
+    "static/js/3.04d27edb.chunk.js": "/reactwebapi-food/static/js/3.04d27edb.chunk.js",
+    "static/js/3.04d27edb.chunk.js.map": "/reactwebapi-food/static/js/3.04d27edb.chunk.js.map",
+    "index.html": "/reactwebapi-food/index.html",
+    "static/css/main.18d5f830.chunk.css.map": "/reactwebapi-food/static/css/main.18d5f830.chunk.css.map",
+    "static/js/2.430a7d93.chunk.js.LICENSE.txt": "/reactwebapi-food/static/js/2.430a7d93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b577ac.js",
+    "static/js/2.430a7d93.chunk.js",
+    "static/css/main.18d5f830.chunk.css",
+    "static/js/main.6d0bf0a0.chunk.js"
+  ]
+}
